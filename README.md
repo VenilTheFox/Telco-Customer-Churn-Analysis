@@ -20,7 +20,9 @@ The dataset contains customer demographic information, subscribed services, cont
 
 ## Project Structure & Workflow
 ### 1. Data Preparation & Cleaning (Python)
-The dataset was cleaned, engineered, and transformed using Python and **Pandas**. Key preprocessing steps included:
+The dataset was cleaned, engineered, and transformed using Python and **Pandas**. 
+
+Key preprocessing steps included:
 * Converting `TotalCharges` to a numeric format.
 * Handling missing values.
 * Creating customer tenure segments.
