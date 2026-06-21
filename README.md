@@ -18,6 +18,11 @@ The dataset contains customer demographic information, subscribed services, cont
 
 ---
 
+## Dashboard Preview
+![Dashboard Preview](Telco%20Customer%20Churn%20Analysis%20Preview.jpg)
+
+---
+
 ## Project Structure & Workflow
 ### 1. Data Preparation & Cleaning (Python)
 The dataset was cleaned, engineered, and transformed using Python and **Pandas**. 
